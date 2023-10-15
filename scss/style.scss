@@ -1,0 +1,25 @@
+
+@import "_header";
+
+h1{
+	color: green;
+}
+body{
+	font-size: 20px;
+	div{
+		font-size: 10;
+	}
+}
+	.block {
+
+		&_item {
+		}
+}
+.block {
+}
+.block_item__ {
+}
+
+.red{
+	color: red;
+}
